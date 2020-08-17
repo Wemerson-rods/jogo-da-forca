@@ -1,9 +1,3 @@
-// (c) COPYRIGHT 2020 HST CARD TECNOLOGY Ltda,
-// Campinas (SP), Brasil
-// ALL RIGHTS RESERVED – TODOS OS DIREITOS RESERVADOS
-// CONFIDENTIAL, UNPUBLISHED PROPERTY OF HST E. E. Ltda
-// PROPRIEDADE CONFIDENCIAL NAO PUBLICADA DA HST Ltda. 
-
 #include <iostream>
 #include <string>
 #include <fstream>
